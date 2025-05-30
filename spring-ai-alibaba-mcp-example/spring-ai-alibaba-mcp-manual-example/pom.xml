@@ -37,6 +37,7 @@
 	<modules>
 		<module>ai-mcp-github</module>
 		<module>ai-mcp-fileserver</module>
+		<module>mcp-client-metadata</module>
 		<module>sqlite/ai-mcp-sqlite</module>
 		<module>sqlite/ai-mcp-sqlite-chatbot</module>
 	</modules>

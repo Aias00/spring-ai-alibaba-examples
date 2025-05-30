@@ -19,7 +19,7 @@
 	<modules>
 		<module>mcp-stdio-server-example</module>
 		<module>starter-stock-server</module>
-	</modules>
+    </modules>
 
 	<build>
 		<plugins>
